@@ -2,9 +2,7 @@
 
 # 使用触发器自动创建LiteSpeed备份作业
 ### Automatically Create LiteSpeed Backup Job With Trigger
-****发布-日期: 2008年02月07日 (评论)**
-
-![##############](images/image0012.png?raw=true "#######")
+**发布-日期: 2008年02月07日 (评论)**
 
 ## Contents
 
